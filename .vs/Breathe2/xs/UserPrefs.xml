@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{80A76CD2-693F-4225-B99F-8D0C9925F8E4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Breathe2/Techniques.xaml">
+    <Files>
+      <File FileName="Breathe2/MainPage.xaml" Line="13" Column="56" />
+      <File FileName="Breathe2/Techniques.xaml" Line="86" Column="19" />
+      <File FileName="Breathe2/BreathePage.xaml.cs" />
+      <File FileName="Breathe2/obj/Debug/netstandard2.0/Techniques.xaml.g.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Breathe2" expanded="True">
+            <Node name="Breathe2" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controls" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="BreathePage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="Techniques.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="Breathe2.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Breathe2.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.S7M7N16729000683" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
