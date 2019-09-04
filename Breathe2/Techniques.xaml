@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			  xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+			  x:Class="Breathe2.Techniques">
+
+    <ContentPage>
+        <yummy:PancakeView IsClippedToBounds="true"
+                      HorizontalOptions="FillAndExpand"
+                      BackgroundGradientAngle="200"
+                      BackgroundGradientStartColor="#2BCOE4"
+                      BackgroundGradientEndColor="#EAECC6">
+            <StackLayout x:Name="pressureTeq"
+                         Margin="25">
+                 <yummy:PancakeView CornerRadius="10"
+                                    BackgroundColor="#E9E4F0"
+                                    HorizontalOptions="FillAndExpand"
+                                    HasShadow="True">
+                     <StackLayout Margin="25">
+                        <StackLayout Orientation="Horizontal"
+                                     HeightRequest="150">
+                            <Image Source="pressure.png"
+                                   Aspect="AspectFit"
+                                   HorizontalOptions="CenterAndExpand"/>
+                        </StackLayout>
+                        <Label Text="Often when we are paniced or stressed our senses are oover-stimulated and over sensitive. Small quick movements can worsen this. To combat this try prolonged preassure touches, such as the one shown in the illustration above."/>
+                    </StackLayout>
+                </yummy:PancakeView>
+                
+            </StackLayout>
+        </yummy:PancakeView>
+        
+    </ContentPage>
+
+    <ContentPage>
+        <yummy:PancakeView IsClippedToBounds="true"
+                      HorizontalOptions="FillAndExpand"
+                      BackgroundGradientAngle="200"
+                      BackgroundGradientStartColor="#2BCOE4"
+                      BackgroundGradientEndColor="#EAECC6">
+   
+            <StackLayout Margin="25">
+                <yummy:PancakeView CornerRadius="10"
+                                   BackgroundColor="#E9E4F0"
+                                   HorizontalOptions="FillAndExpand"
+                                   HasShadow="True">
+                    <StackLayout Margin="25">
+                        <StackLayout Orientation="Horizontal"
+                                     HeightRequest="150">
+                            <Image Source="eye.png"
+                                   Aspect="AspectFit"
+                                   HorizontalOptions="CenterAndExpand"/>
+                        </StackLayout>
+                        <Label Text="Try to identify all the sounds around you and become aware of them"/>
+                    </StackLayout>
+                </yummy:PancakeView>
+            </StackLayout>
+        </yummy:PancakeView>
+        
+    </ContentPage>
+
+    <ContentPage>
+        <yummy:PancakeView IsClippedToBounds="true"
+                      HorizontalOptions="FillAndExpand"
+                      BackgroundGradientAngle="200"
+                      BackgroundGradientStartColor="#2BCOE4"
+                      BackgroundGradientEndColor="#EAECC6">
+            <StackLayout x:Name="squeezeTeq"
+                         Margin="25">
+                 <yummy:PancakeView CornerRadius="10"
+                                   BackgroundColor="#E9E4F0"
+                                   HorizontalOptions="FillAndExpand"
+                                   HasShadow="True">
+                     <StackLayout Margin="25">
+                         <StackLayout Orientation="Horizontal"
+                                      HeightRequest="150">
+                             <Image Source="squeeze2.png"
+                                    Aspect="AspectFit"
+                                    HorizontalOptions="CenterAndExpand"/>
+                         </StackLayout>
+                         <Label Text="Research shows that preassure and then a slow release assistings in controlling your heart rate. Try squeezing a stress ball as tigh as you can and then slowly releasing your grip."/>
+                     </StackLayout>
+                 </yummy:PancakeView>
+            </StackLayout>
+        </yummy:PancakeView>
+    </ContentPage>
+
+</CarouselPage>

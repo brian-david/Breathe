@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:Controls="clr-namespace:Breathe2.Controls"
+             x:Class="Breathe2.BreathePage"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="FillAndExpand">
+            <Controls:CustomLabel Text="breathe"
+                                  HorizontalTextAlignment="Center"
+                                  VerticalOptions="CenterAndExpand"
+                                  x:Name="breatherLabel"
+                                  FontFamily="Georgia.ttf#Georgia-Bold"
+                                  FontSize="Large"/>
+            <Button x:Name="back_btn"
+                    VerticalOptions="End"
+                    HorizontalOptions="End"
+                    Text="back"
+                    Clicked="BackBtn_Clicked"
+                    Margin="15"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

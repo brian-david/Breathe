@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:yummy="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             mc:Ignorable="d"
+             x:Class="Breathe2.MainPage"
+             NavigationPage.HasNavigationBar="false"
+             xmlns:android="clr-namespace:Xamarin.Forms.PlatformConfiguration.AndroidSpecific;assembly=Xamarin.Forms.Core">
+   <yummy:PancakeView BackgroundColor="#FFF"
+                      IsClippedToBounds="true"
+                      HorizontalOptions="FillAndExpand"
+                      BackgroundGradientAngle="200"
+                      BackgroundGradientStartColor="#2BCOE4"
+                      BackgroundGradientEndColor="#EAECC6">
+       <StackLayout VerticalOptions="CenterAndExpand">
+           <Button x:Name="breath_btn"
+                   WidthRequest="200"
+                   BorderRadius="20"
+                   Text="breath"
+                   BackgroundColor="#0082c8"
+                   Margin="10"
+                   TextColor="white"
+                   HorizontalOptions="Center"
+                   android:Button.UseDefaultShadow="true"
+                   Clicked="BreathBtnClicked" />
+
+            <Button x:Name="techniques_btn"
+                    WidthRequest="200"
+                    BorderRadius="20"
+                    Text="calming techniques"
+                    BackgroundColor="#0082c8"
+                    TextColor="white"
+                    Margin="10"
+                    HorizontalOptions="Center"
+                    android:Button.UseDefaultShadow="true"
+                    Clicked="ManageBtnClicked" />
+       </StackLayout>
+   </yummy:PancakeView>    
+</ContentPage>
