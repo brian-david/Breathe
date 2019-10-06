@@ -2261,11 +2261,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brianirons/Projects/Breathe/Breathe2.Android/Breathe2.Android.csproj",
+      "projectUniqueName": "/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2.Android/Breathe2.Android.csproj",
       "projectName": "Breathe2.Android",
-      "projectPath": "/Users/brianirons/Projects/Breathe/Breathe2.Android/Breathe2.Android.csproj",
+      "projectPath": "/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2.Android/Breathe2.Android.csproj",
       "packagesPath": "/Users/brianirons/.nuget/packages/",
-      "outputPath": "/Users/brianirons/Projects/Breathe/Breathe2.Android/obj/",
+      "outputPath": "/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
@@ -2280,8 +2280,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "/Users/brianirons/Projects/Breathe/Breathe2/Breathe2.csproj": {
-              "projectPath": "/Users/brianirons/Projects/Breathe/Breathe2/Breathe2.csproj"
+            "/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/Breathe2.csproj": {
+              "projectPath": "/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/Breathe2.csproj"
             }
           }
         }

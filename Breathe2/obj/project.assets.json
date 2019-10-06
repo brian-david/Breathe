@@ -794,11 +794,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/brianirons/Projects/Breathe/Breathe2/Breathe2.csproj",
+      "projectUniqueName": "/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/Breathe2.csproj",
       "projectName": "Breathe2",
-      "projectPath": "/Users/brianirons/Projects/Breathe/Breathe2/Breathe2.csproj",
+      "projectPath": "/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/Breathe2.csproj",
       "packagesPath": "/Users/brianirons/.nuget/packages/",
-      "outputPath": "/Users/brianirons/Projects/Breathe/Breathe2/obj/",
+      "outputPath": "/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -862,10 +862,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -874,7 +880,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'SkiaSharp.Views 1.68.0' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'SkiaSharp.Views 1.68.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
       "libraryId": "SkiaSharp.Views",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"
@@ -884,7 +890,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'SuaveControls.FloatingActionButton 2018.1.5' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "message": "Package 'SuaveControls.FloatingActionButton 2018.1.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
       "libraryId": "SuaveControls.FloatingActionButton",
       "targetGraphs": [
         ".NETStandard,Version=v2.0"

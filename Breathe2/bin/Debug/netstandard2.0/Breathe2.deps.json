@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "6ea2323417b78b92c08dc230af644792d30f697a"
+    "signature": ""
   },
   "compilationOptions": {},
   "targets": {
@@ -16,8 +16,7 @@
           "SuaveControls.FloatingActionButton": "2018.1.5",
           "Xamarin.Essentials": "1.3.0",
           "Xamarin.Forms": "4.2.0.709249",
-          "Xamarin.Forms.PancakeView": "1.1.8",
-          "Mono.Android": "0.0.0.0"
+          "Xamarin.Forms.PancakeView": "1.1.8"
         },
         "runtime": {
           "Breathe2.dll": {}
@@ -121,14 +120,6 @@
             "fileVersion": "1.2.0.0"
           }
         }
-      },
-      "Mono.Android/0.0.0.0": {
-        "runtime": {
-          "Mono.Android.dll": {
-            "assemblyVersion": "0.0.0.0",
-            "fileVersion": "0.0.0.0"
-          }
-        }
       }
     }
   },
@@ -207,11 +198,6 @@
       "sha512": "sha512-xPUWAWrWozOWMN9F/FJmHNKGsjTLg6OJlklZGUPWPIOziWnpl5ly/hEUGFB2DgbzXgSosFWWL093lgYGzXNNwQ==",
       "path": "xamarin.forms.pancakeview/1.1.8",
       "hashPath": "xamarin.forms.pancakeview.1.1.8.nupkg.sha512"
-    },
-    "Mono.Android/0.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

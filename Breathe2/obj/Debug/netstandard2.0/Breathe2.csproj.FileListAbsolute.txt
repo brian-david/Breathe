@@ -28,3 +28,16 @@
 /Users/brianirons/Projects/Breathe/Breathe2/obj/Debug/netstandard2.0/Breathe2.dll
 /Users/brianirons/Projects/Breathe/Breathe2/obj/Debug/netstandard2.0/Breathe2.pdb
 /Users/brianirons/Projects/Breathe/Breathe2/obj/Debug/netstandard2.0/Breathe2.csprojAssemblyReference.cache
+/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/bin/Debug/netstandard2.0/Breathe2.deps.json
+/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/bin/Debug/netstandard2.0/Breathe2.dll
+/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/bin/Debug/netstandard2.0/Breathe2.pdb
+/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/obj/Debug/netstandard2.0/Breathe2.csprojAssemblyReference.cache
+/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/obj/Debug/netstandard2.0/BreathePage.xaml.g.cs
+/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/obj/Debug/netstandard2.0/Techniques.xaml.g.cs
+/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/obj/Debug/netstandard2.0/Breathe2.AssemblyInfoInputs.cache
+/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/obj/Debug/netstandard2.0/Breathe2.AssemblyInfo.cs
+/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/obj/Debug/netstandard2.0/Breathe2.dll
+/Users/brianirons/Portfolio/3_Breathe/Breathe/Breathe2/obj/Debug/netstandard2.0/Breathe2.pdb
