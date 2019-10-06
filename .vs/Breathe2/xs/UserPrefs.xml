@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Breathe2/Techniques.xaml">
     <Files>
       <File FileName="Breathe2/MainPage.xaml" Line="13" Column="56" />
-      <File FileName="Breathe2/Techniques.xaml" Line="86" Column="19" />
+      <File FileName="Breathe2/Techniques.xaml" />
       <File FileName="Breathe2/BreathePage.xaml.cs" />
       <File FileName="Breathe2/obj/Debug/netstandard2.0/Techniques.xaml.g.cs" />
     </Files>
